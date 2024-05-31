@@ -1,3 +1,8 @@
 pandas
 numpy
 ipykernel
+openpyxl
+extract-msg
+matplotlib
+plotly
+os
